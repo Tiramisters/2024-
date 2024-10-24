@@ -1,0 +1,1 @@
+del .\code\*.exe /s
